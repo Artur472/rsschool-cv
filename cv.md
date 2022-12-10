@@ -6,9 +6,9 @@
 # 3. About myself
 Having learned about training from RS-school, I decided to try to learn coding, before that I tried to enter it by mastering the profession of a QA engineer, but I realized that it is probably not mine and I like something more structural - code.
 # 4. Skills
- HTML, 
- CSS, 
- GIT all on basic level
+HTML, 
+CSS, 
+GIT all on basic level
 # 5. Code examlpe 
 I do not have a practice wiht js thats why i use starting code from codewars
 ```
